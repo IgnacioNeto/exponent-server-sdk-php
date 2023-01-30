@@ -6,8 +6,8 @@ $titulo = $_POST["titulo"];
 $mensagem = $_POST["mensagem"];
 
  $channelName = 'news';
-//  Guilherme e Marcelo
-//  $recipient= ['ExponentPushToken[Aak41dPb_OImfGxGCelRfz]','ExponentPushToken[XS_qc1AcdpKNmV_fukD-kY]' ];
+//  Guilherme, Marcelo e Ignacio
+//  $recipient= ['ExponentPushToken[Aak41dPb_OImfGxGCelRfz]','ExponentPushToken[XS_qc1AcdpKNmV_fukD-kY]','ExponentPushToken[DAv8BRD83aXFFdu0DGASd-]' ];
 
 // Meu Ignacio
  $recipient= ['ExponentPushToken[DAv8BRD83aXFFdu0DGASd-]' ];
