@@ -6,7 +6,11 @@ $titulo = $_POST["titulo"];
 $mensagem = $_POST["mensagem"];
 
  $channelName = 'news';
- $recipient= ['ExponentPushToken[Aak41dPb_OImfGxGCelRfz]','ExponentPushToken[XS_qc1AcdpKNmV_fukD-kY]' ];
+//  Guilherme e Marcelo
+//  $recipient= ['ExponentPushToken[Aak41dPb_OImfGxGCelRfz]','ExponentPushToken[XS_qc1AcdpKNmV_fukD-kY]' ];
+
+// Meu Ignacio
+ $recipient= ['ExponentPushToken[DAv8BRD83aXFFdu0DGASd-]' ];
  
  // You can quickly bootup an expo instance
  $expo = \ExponentPhpSDK\Expo::normalSetup();
